@@ -76,6 +76,12 @@ a {
     margin-right: auto;
 }
 
+@media (max-width: 767px) {
+    .header-logo > img {
+        width: 100px;
+    }
+}
+
 .header-list {
     display: flex;
     gap: 94px;
