@@ -33,7 +33,7 @@ a {
 }
 
 .container {
-    width: 1210px;
+    max-width: 1210px;
     margin-right: auto;
     margin-left: auto;
     padding: 0 15px;
